@@ -1,0 +1,16 @@
+﻿Energy:2
+Fatal:4
+Blade:2
+Swift:4
+Focus:2
+Guard:2
+Endure:2
+Shield:2
+Revenge:2
+Will:2
+Nemesis:2
+Vampire:4
+Destroy:2
+Despair:4
+Violent:4
+Rage:4

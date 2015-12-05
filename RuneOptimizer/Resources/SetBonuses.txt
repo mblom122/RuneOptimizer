@@ -1,0 +1,16 @@
+﻿Energy:15
+Fatal:35
+Blade:12
+Swift:25
+Focus:20
+Guard:15
+Endure:20
+Shield:15
+Revenge:15
+Will:1
+Nemesis:4
+Vampire:35
+Destroy:4
+Despair:25
+Violent:22
+Rage:40
